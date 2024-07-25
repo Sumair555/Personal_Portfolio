@@ -1,2 +1,2 @@
-# Personal_Portfolio
-MY Intern Project Work
+# Personal_Portfolio_Website
+MY Intern Project Work of Web development using only html, css and javascript.
