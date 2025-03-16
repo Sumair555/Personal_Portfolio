@@ -9,7 +9,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background: url('8.png') no-repeat center center fixed;
+  background: url('/Personal_Portfolio/images/8.png') no-repeat center center fixed;
   background-size: cover;
   color: #000000;
   margin: 0;
@@ -27,7 +27,7 @@ body {
 
 /* Header styling */
 header {
-  background: url(3.jpg) no-repeat center center fixed;
+  background: url(/Personal_Portfolio/images/3.jpg) no-repeat center center fixed;
   background-size: cover;
   color: #ffffff;
   position: fixed;
